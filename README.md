@@ -1,5 +1,5 @@
 This is a basic Poker PROGRAM v0.1:
-    As of this version you are able to:
+    CURRENT FEATURES:
         Start a game
         Draw a card
         See your hand
