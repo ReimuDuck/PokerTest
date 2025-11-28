@@ -1,12 +1,13 @@
-This is a basic Poker PROGRAM v0.1:
+This is a basic Poker PROGRAM v0.8:
 
     CURRENT FEATURES:
-        Start a game
-        Draw a card
-        See your hand
-        Quit the game
+        NOW IN C++
+        Blackjack game:
+            If you have played you should know the rules, all the features you would expect are included.
+        Simple dealer bot
+        SCORE MECHANIC! GO FOR THE HIGHEST VALUE!!!
 
     FUTURE FEATURES
-        Win conditions
-        Opponents
-        Better UI
+        Multiple Opponents
+        Better UI/possible GUI
+        More rulesets/modular rulesets
